@@ -71,3 +71,6 @@ For preprocessing I have used the PIL library ( `pip install pillow` )
 
 - Distributing  the program for worldwide use
 
+## Note:
+This program is provided ‘as is’, without any warranties or guarantees of any kind, express or implied. The developer shall not be liable for any damages or losses arising from the use of, or inability to use, the program. By using this software, the user assumes full responsibility for any outcomes or consequences.
+
